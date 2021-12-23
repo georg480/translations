@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE martif PUBLIC "ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN" "TBXcdv04.dtd">
+<martif type="TBX" xml:lang="en">
+    <martifHeader>
+        <fileDesc>
+            <sourceDesc>
+                <p>Translate Toolkit</p>
+            </sourceDesc>
+        </fileDesc>
+    </martifHeader>
+    <text>
+        <body>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Apply</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>An_wenden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_OK</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_OK</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Apply</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Anwenden</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>OK</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>OK</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Spoke</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Speiche</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Trendline</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Trendlinie</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Moving Average</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Gleitender Mittelwert</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Yes</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Ja</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_No</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Nein</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Help</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Hilfe</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Edit</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Bearbeiten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Create</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Erstellen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>LibreOffice Technology</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>LibreOffice Technology</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>LibreOffice Enterprise</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>LibreOffice Enterprise</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>LibreOffice Community</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>LibreOffice Community</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fedora</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Fedora</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Delete</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Löschen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Impress</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Impress</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_New</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Neu</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Remove</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Entfernen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Close</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Schließen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Cancel</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Abbrechen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Add</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>H_inzufügen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Reset</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Zurücksetzen</term></tig></langSet>
+            </termEntry>
+            <termEntry id="DO NOT USE THE “TERMINOLOGY” CHECKBOX UNLESS IT’S REALLY WARRANTED!">
+                <langSet xml:lang="en"><tig><term>PLEASE DON’T CROSS YOUR TEAM’S BOUNDARIES AND ADD GLOSSARY STRINGS ONLY TO YOUR OWN GLOSSARY, NOT TO EVERYONE ELSE’S, UNLESS STRICTLY NECESSARY</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>BITTE BESCHRÄNKEN SIE SICH AUF DEN BEREICH IHRES ÜBERSETZUNGSTEAMS UND FÜGEN SIE NUR GLOSSAR-EINTRÄGE ZU IHREM EIGENEN GLOSSAR HINZU, SOLANGE ES NICHT ABSOLUT NOTWENDIG IST</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>redaction</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Redigieren</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Document</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dokument</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>formatting</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Formatierung</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>_Manage</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>_Verwalten</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Add</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Hinzufügen</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Export Dialog...</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>Dialog Export…</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>alias</term></tig></langSet>
+                <langSet xml:lang="de"><tig><term>alias</term></tig></langSet>
+            </termEntry>
+        </body>
+    </text>
+</martif>
