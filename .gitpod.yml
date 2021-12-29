@@ -39,4 +39,4 @@ image: gitpod/workspace-full-vnc
 
 vscode:
   extensions:
-    - ms-vscode.cpptools@0.26.2:Pq/tmf2WN3SanVzB4xZc1g==
+    - ms-vscode.makefile-tools@0.3.1
