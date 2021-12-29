@@ -1,5 +1,5 @@
 tasks:
   - init: |
-      echo 'TODO: prebuild Georg'
+      echo 'TODO: prebuild Georg' && sudo apt-get update
 #    command: |
 #      echo 'TODO: start app'
